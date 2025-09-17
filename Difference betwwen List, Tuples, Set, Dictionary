@@ -1,0 +1,6 @@
+List 		                                  Tuple		                        Set		                              Dictionary
+Collection  of Ordered data 		Collection of ordered data		     Unordered collection		          Unordered collection of data having key and value pair
+Mutable 		                     Immutable		                          Mutable		                              Mutable
+Represented by []		              Represented by ( )	         	    Represented by { }		         Represented by { } having key and value inside it 
+		                    Speed of Exection is faster than list		    No duplicate values		          Keys are immutable and do not permit duplicates
+				                                                            sorting is not done		
